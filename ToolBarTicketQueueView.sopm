@@ -1,0 +1,16 @@
+<Name>ToolBarTickerQueueView</Name>
+<Version>0.0.1</Version>
+<Framework>3.2.x</Framework>
+<Vendor>Actuna</Vendor>
+<URL>https://github.com/WojRep/OTRS-ToolBar-TicketQueueView</URL>
+<License>GNU AFFERO GENERAL PUBLIC LICENSE Version 3, November 2007</License>
+<ChangeLog Version="0.0.1" Date="2019-01-13 19:00:00">Initial.</ChangeLog>
+<Description> Display counter MyQueue in ToolBar</Description>
+<PackageIsVisible>1</PackageIsVisible>
+<PackageIsDownloadable>1</PackageIsDownloadable>
+<PackageIsRemovable>1</PackageIsRomovable>
+<BuildHost>?</BuilHost>
+<BuildDate>?</BuildDate>
+<Filelist>
+	<File Permission="644" Location="Kernel/Output/HTML/ToolBar/TicketQueueView.pm"/>
+</Filelist>
